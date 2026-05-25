@@ -1,2 +1,2 @@
 # Systems-Programming
-Spring 2026 Class
+CSE 20289 - Systems Programming - Spring 2026
