@@ -1,0 +1,22 @@
+{
+  "q01": "d",
+  "q02": "e",
+  "q03": "e",
+  "q04": "e",
+  "q05": [
+    "fprintf",
+    "exit",
+    "fgets",
+    "fputs",
+    "argv",
+    "strlen"
+  ],
+  "q06": [
+    "fopen",
+    "fclose"
+  ],
+  "q07": [
+    "strcmp",
+    "0"
+  ]
+}

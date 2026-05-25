@@ -1,0 +1,28 @@
+{
+  "q01": [
+    "file",
+    "write",
+    "read",
+    "inode",
+    "directory"
+  ],
+  "q02": [
+    "open",
+    "fsync",
+    "lseek",
+    "read",
+    "write"
+  ],
+  "q03": [
+    "open",
+    "stat",
+    "chmod",
+    "mkdir",
+    "rmdir",
+    "chdir",
+    "link",
+    "unlink",
+    "rename",
+    "kill"
+  ]
+}

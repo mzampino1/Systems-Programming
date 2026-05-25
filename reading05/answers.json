@@ -1,0 +1,23 @@
+{
+  "q1": [
+    "e",
+    "f",
+    "b",
+    "c",
+    "a",
+    "d"
+  ],
+  "q2": [
+    "set()",
+    "open('/etc/passwd')",
+    "':'",
+    "record[6]"
+  ],
+  "q3": [
+    "requests.get(URL)",
+    "response.json()",
+    "machine['type']",
+    "machine['name']",
+    "machine['address']"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "q1": [
+    "ip",
+    "host",
+    "ping",
+    "scp",
+    "rsync",
+    "curl",
+    "ss",
+    "nmap",
+    "nc",
+    "traceroute"
+  ],
+  "q2": [
+    "2081",
+    "628",
+    "57",
+    "24",
+    "22"
+  ],
+  "q3": [
+    "bash exists.sh",
+    "chmod +x exists.sh",
+    "./exists.sh",
+    "PATH"
+  ],
+  "q4": [
+    "shebang",
+    "argument",
+    "file"
+  ],
+  "q5": [
+    "$#",
+    "-lt",
+    "1",
+    "0",
+    "$@",
+    "-e",
+    "$arg",
+    "$arg",
+    "$arg",
+    "1",
+    "$EXITCODE"
+  ]
+}

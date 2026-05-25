@@ -1,0 +1,19 @@
+{
+  "q1": [
+    "http",
+    "momo.ndlug.org",
+    "9414",
+    "/script.py",
+    "friend=appa"
+  ],
+  "q2": [
+    "socket",
+    "fdopen",
+    "getaddrinfo",
+    "bind",
+    "getnameinfo",
+    "connect",
+    "listen",
+    "accept"
+  ]
+}

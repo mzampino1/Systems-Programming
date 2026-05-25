@@ -1,0 +1,32 @@
+{
+  "q01": [
+    "strings",
+    "sys",
+    "loop"
+  ],
+  "q02": [
+    "len(fields)",
+    "fields[0]",
+    "fields[-1]",
+    "fields[:4]",
+    "fields[-4:]",
+    "fields.append(value)",
+    "value in fields"
+  ],
+  "q03": [
+    "Work",
+    "7"
+  ],
+  "q04": [
+    "len(counts)",
+    "counts.keys()",
+    "counts.values()",
+    "counts.items()",
+    "counts.get(key, 0)",
+    "key in counts"
+  ],
+  "q05": [
+    "14911",
+    "130410"
+  ]
+}
